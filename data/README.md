@@ -1,3 +1,3 @@
 # Data
 
-Host all of your data in this directory. This could include excel or .csv files as well as photos of your experiment.
+Excel file containing all data from mortalities, resazurin, and righting times for the Copper Exposure Research project.
